@@ -1,3 +1,0 @@
-location_lvl_id,CUSTOMER_LVL_ID,event_id,event_nm,period_start_dt,period_end_dt,event_flg,bank_holiday_flg,RECCURENCE_TYPE
-1001001,,1,MAR8,08MAR2015,08MAR2015,1,1,Y
-1001001,,2,FEB23,23FEB2015,23FEB2015,1,1,Y
